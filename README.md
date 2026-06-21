@@ -24,7 +24,7 @@ Cisco Packet Tracer
 Project Outcome:
 Successfully configured and verified static routing between multiple networks in Cisco Packet Tracer. Assigned IP addresses, configured default gateways and static routes, and achieved end-to-end connectivity across all subnets. Connectivity was validated using ping tests and Cisco IOS verification commands.
 
-Project Topology and Successful Connectivity Verification:
+Project Topology and Successful Connectivity Verification:-
 Static Routing topology after successful configuration and end-to-end connectivity verification: ![image alt](https://github.com/ayushgupta0542/Static-Routing/blob/103b6fa2e93793477756749486db6cf370facea9/Screenshot%202026-06-17%20114142.png)
 
 Results:
